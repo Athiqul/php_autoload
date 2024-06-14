@@ -11,5 +11,6 @@ use App\Models\User;
  $news= new News();
 
 $user=new User();
+echo greetings();
 
 ?>
